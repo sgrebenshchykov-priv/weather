@@ -5,7 +5,7 @@ import { Navbar, NavItem, Nav, Grid, Row, Col } from "react-bootstrap";
 import WeatherDisplay from './components/WeatherDisplay';
 
 const PLACES = [
-  {name: 'Mexico City', zip: '94303'},
+  {name: 'TEST CITY', zip: '94303'},
   {name: 'Sunnyvale', zip: '94088'},
   {name: 'Santa Cruz', zip: '95062'},
   {name: 'Honolulu', zip: '96803'}
